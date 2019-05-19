@@ -103,4 +103,5 @@ And finally run your app as a Docker container by executing:
  - More info about [Grails](https://grails.org/).
 
 ## Credits ##
-This image was inspired by the [niaquinto/grails](https://registry.hub.docker.com/u/niaquinto/grails/) image available in the Docker Registry Hub.
+ - This image was inspired by the [niaquinto/grails](https://registry.hub.docker.com/u/niaquinto/grails/) image available in the Docker Registry Hub.
+ - This is a fork of https://github.com/mozart-analytics/grails-docker

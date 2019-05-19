@@ -1,9 +1,9 @@
 FROM java:8
-MAINTAINER Manuel Ortiz Bey <ortiz.manuel@mozartanalytics.com>
+MAINTAINER Franz See <franz@see.net.ph>
 
 # Set customizable env vars defaults.
 # Set Grails version (default: 3.2.8; min: 3.0.0; max: 3.2.8).
-ENV GRAILS_VERSION 3.2.8
+ENV GRAILS_VERSION 3.0.17
 
 # Install Grails
 WORKDIR /usr/lib/jvm
